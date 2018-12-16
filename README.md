@@ -33,8 +33,7 @@ Execution
 - Running Programs in R :
     Use RStudio to open and run the R files within the current directory
 
-    1. Download the following files from [this link](http://www.nyc.gov/html/tlc/html/
-       about/trip_record_data.shtml) into the newly created `data` folder
+    1. Download the following files from [this link](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) into the newly created `data` folder
       - Feb(2017) - March(2018) and May 2018 for training.
       - Feb, April and June 2018 for testing.
 
