@@ -33,9 +33,10 @@ Execution
 - Running Programs in R :
     Use RStudio to open and run the R files within the current directory
 
-    1. Download the following files from [this link](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) into the newly created `data` folder
-      - Feb(2017) - March(2018) and May 2018 for training.
-      - Feb, April and June 2018 for testing.
+    1. Download the following files from [this link](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+        - Use only the Yellow Taxi Cab data.
+        - All of 2017 and January, March, and May of 2018 for training.
+        - Feb, April and June 2018 for testing.
 
     2. Open RStudio and run the file `condense.R`
 
