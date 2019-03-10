@@ -1,4 +1,4 @@
-# Just The Tip: A Project on NYC Taxi Tip Predictions
+# Pro Tip: A Project on NYC Taxi Tip Predictions
 
 New York City Yellow Taxi Data analytics to predict tip amounts.
 
